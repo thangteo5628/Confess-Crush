@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Gửi bạn Beo <3",
-    introTitle: 'Chúc mừng sinh nhật bạn Hoèn ',
+    titleWeb: "Gửi bạn Trà Beo <3",
+    introTitle: 'Chúc mừng sinh nhật Trà iu ',
     introDesc: `Mỗi mùa xuân sang
     Nghĩa trang lại gần thêm một đoạn.
     Thay mặt toàn bộ anh em
@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Không hề nha azaiii :3',
     question: 'Mang tiếng bạn bè ko lì xì nhau nổi 200k à <3',
     btnReply: 'Gửi Thắng Tèo',
-    reply: 'Huyền lì xì cho bạn Thắng hẳn 500k luôn <33333333',
+    reply: 'Thắng lì xì cho bạn Thắng hẳn 500k luôn <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'CHÚC MỪNG SINH NHẬT BẠN. MÃI HẠNH PHÚC NHÉ BẠN IUU.',
     btnAccept: 'Okiiiii lun <3',

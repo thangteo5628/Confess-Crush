@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Không hề nha azaiii :3',
     question: 'Mang tiếng bạn bè ko lì xì nhau nổi 200k à <3',
     btnReply: 'Gửi Thắng Tèo',
-    reply: 'Thắng lì xì cho bạn Thắng hẳn 500k luôn <33333333',
+    reply: 'Trà lì xì cho bạn Thắng hẳn 500k luôn <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'CHÚC MỪNG SINH NHẬT BẠN. MÃI HẠNH PHÚC NHÉ BẠN IUU.',
     btnAccept: 'Okiiiii lun <3',

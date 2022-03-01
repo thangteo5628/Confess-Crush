@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Trà Beo <3",
-    introTitle: 'Thanh  ',
+    introTitle: 'Thanh Trà ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường.
-    Lạc vào tim anh lẻ 
-    Đằng sau chứ yêu đây là  `,
+    Lạc vào tim anh lẻ loi
+    Đằng sau chứ yêu đây là thương `,
     btnIntro: 'iuu iuu',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên  🥰',
     desc: 'Phải chăng em đã yêu ngay từ lúc thấy nụ cười ấy ',

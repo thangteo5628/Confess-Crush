@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Gửi bạn Trà Beo <3",
-    introTitle: 'Chúc mừng sinh nhật Trà iu ',
-    introDesc: `Mỗi mùa xuân sang
-    Nghĩa trang lại gần thêm một đoạn.
-    Thay mặt toàn bộ anh em
-    Xin được chúc mừng sinh nhật bạn `,
+    titleWeb: "Trà Beo <3",
+    introTitle: 'Thanh  ',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường.
+    Lạc vào tim anh lẻ 
+    Đằng sau chứ yêu đây là  `,
     btnIntro: 'iuu iuu',
-    title: 'Phải công nhận là tui đẹp trai chì bạn  🥰',
-    desc: 'Mấy ai đẹp đc như tui bạn hẹ ? ',
-    btnYes: 'Thắng xuất sắc, Thắng tuyệt vời, Thắng là số 1 <33',
-    btnNo: 'Không hề nha azaiii :3',
-    question: 'Mang tiếng bạn bè ko lì xì nhau nổi 200k à <3',
-    btnReply: 'Gửi Thắng Tèo',
-    reply: 'Trà lì xì cho bạn Thắng hẳn 500k luôn <33333333',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên  🥰',
+    desc: 'Phải chăng em đã yêu ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Thích lắm <33',
+    btnNo: 'Không hề nha :3',
+    question: 'Trên thế giới có 7 tỉ người tại sao bạn lại chọn yêu mình ? <3',
+    btnReply: 'Gửi Thắng ',
+    reply: 'Yêu thì yêu mà không yêu thì yêu',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'CHÚC MỪNG SINH NHẬT BẠN. MÃI HẠNH PHÚC NHÉ BẠN IUU.',
+    messDesc: 'Yêu bạn. Nhắn tin cho mình nhé <33333.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/100009821701801' 
 }
